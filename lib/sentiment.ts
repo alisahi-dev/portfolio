@@ -34,7 +34,7 @@ const AFINN: Record<string, number> = {
   pathetic: -3, worthless: -3, toxic: -3, disaster: -3, catastrophic: -4,
   devastating: -4, dangerous: -2,
   // ── Tech & DS specific ──
-  accurate: 2, performant: 2, scalable: 2, optimized: 2, deployed: 2,
+  performant: 2, scalable: 2, optimized: 2, deployed: 2,
   trained: 1, converged: 2, overfit: -2, underfit: -2, imbalanced: -1,
   noisy: -1, corrupt: -2, missing: -1, biased: -2, leaking: -2,
 };
