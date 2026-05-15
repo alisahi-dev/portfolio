@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 
 const LINKS = [
-  { label: 'Email',    value: 'aa5118503@gmail.com', href: 'mailto:aa5118503@gmail.com', color: '#00d4ff' },
+  { label: 'Email',    value: 'aliiasimsahi1@gmail.com', href: 'mailto:aliiasimsahi1@gmail.com', color: '#00d4ff' },
   { label: 'GitHub',   value: 'github.com/alisahi-dev', href: 'https://github.com/alisahi-dev', color: '#a855f7' },
   { label: 'LinkedIn', value: 'linkedin.com/in/alisahi', href: 'https://linkedin.com', color: '#10b981' },
 ];

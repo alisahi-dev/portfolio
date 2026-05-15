@@ -216,9 +216,9 @@ export default function Hero() {
               { key: 'name',        val: '"Ali Sahi"',          color: '#e2e8f0' },
               { key: 'university',  val: '"York University"',   color: '#a855f7' },
               { key: 'degree',      val: '"BSc Data Science"',  color: '#a855f7' },
-              { key: 'year',        val: '4',                   color: '#f59e0b' },
+              { key: 'graduating',  val: '2027',                color: '#f59e0b' },
               { key: 'status',      val: '"building"',          color: '#10b981' },
-              { key: 'stack',       val: '["Python", "ML", "Next.js"]', color: '#00d4ff' },
+              { key: 'stack',       val: '["Python", "PyTorch", "SQL", "LangChain"]', color: '#00d4ff' },
               { key: 'open_to',     val: '"roles + collabs"',  color: '#10b981' },
             ].map(({ key, val, color }) => (
               <div key={key} className="flex gap-2">

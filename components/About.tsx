@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 
 const FACTS = [
-  { icon: '🎓', label: 'BSc (Hons) Data Science', sub: 'York University · 4th year' },
+  { icon: '🎓', label: 'BSc (Hons) Data Science', sub: 'York University · Graduating 2027' },
   { icon: '📍', label: 'Toronto, Canada',          sub: 'Open to remote & hybrid' },
   { icon: '⚗', label: '4 projects this summer',   sub: 'ML · AI · Full-stack' },
   { icon: '🏆', label: 'AWS cert in progress',     sub: 'Cloud Practitioner' },

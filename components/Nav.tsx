@@ -51,7 +51,7 @@ export default function Nav() {
             </a>
           ))}
           <a
-            href="mailto:aa5118503@gmail.com"
+            href="mailto:aliiasimsahi1@gmail.com"
             className="ml-3 text-sm font-mono px-4 py-2 rounded-lg transition-all hover:scale-105"
             style={{
               background: 'linear-gradient(135deg, rgba(0,212,255,0.15), rgba(168,85,247,0.15))',
